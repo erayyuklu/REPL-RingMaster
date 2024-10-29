@@ -1,0 +1,16 @@
+OK
+4 bread and 3 apple and 1 ring
+3
+4 bread and 3 apple and 1 ring
+OK
+NOBODY
+atakan
+INVALID
+OK
+0
+OK
+2 coffee
+OK
+NOTHING
+OK
+0

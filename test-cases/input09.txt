@@ -1,0 +1,7 @@
+Galadriel and Elrond buy 3 bread and 2 map
+Galadriel sell 3 bread and 3 map
+Galadriel total ?
+Galadriel sell 3 bread and 3 map to Cirdan
+Galadriel total ?
+Cirdan total ?
+exit

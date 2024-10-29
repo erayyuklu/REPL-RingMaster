@@ -1,0 +1,17 @@
+ayse and ali and frodo buy 4 bread and 3 apple and 1 ring if ayse has less than 3 bread
+ayse total ?
+ali total apple ?
+frodo total ?
+atakan go to rivendell and isil go to shire
+who at mordor ?
+who at rivendell ?
+who shire ?
+sam buy 2 coffee if atakan at rivendell
+sam total coffeee ?
+sam buy 4 bread if atakan and isil at rivendell
+sam total ?
+gandalf buy 2 coffee if atakan at rivendell and atakan and isil at rivendell
+gandalf total ?
+gandalf buy 2 coffee if atakan and isil at rivendell and atakan at rivendell
+gandalf total coffee ?
+exit

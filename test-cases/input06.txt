@@ -1,0 +1,18 @@
+Frodo go to Rivendell
+who at Shire ?
+Frodo    where ?
+Frodo sell 2 bread to Sam
+Frodo and Sam buy 3 bread and 2 ring
+Sam sell 1 ring to Sauron
+Sauron where ?
+Sam total ?
+Frodo buy 2 palantir and Frodo go to NOWHERE
+Frodo total palantir ?
+Frodo total Bread ?
+Frodo go to mount_doom and Gandalf buy 3 arrow if Sauron has 1 ring and Frodo at Rivendell
+who at mount_doom ?
+Legolas buy 100 hairclip from Arwen if Galadriel at  Lothlorien
+Legolas total hairclip ?
+Legolas buy 100 hairclip from Arwen if Gandalf has more than 2 arrow
+Legolas total hairclip ?
+exit

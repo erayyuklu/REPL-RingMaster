@@ -1,0 +1,16 @@
+someone go to somewhere and somebody buy 1 somethings and 2 SoMeTHiNG if someone has less than 2 somethings and 1 nothinG and someone go to home_of_someone if someone has 10 something
+someone where ?
+somebody where ?
+who at home_of_someone ?
+everyone and somebody and someone go to everywhere and this is invalid if everyone at everywhere
+everyone where ?
+Eray go to Ankara
+Eray buy 10 elma and Eray sell 1 elma to cemil and cemil sell 1 portakal to Eray if Eray at Ankara
+Eray total ?
+cemil total ?
+Eray buy from Ahmet if Eray has less than 3 elma
+Cemil buy 1 elma and Eray go to Ankara
+Cemil sell 1 elma to Eray and Cemil go to Ankara if Eray at Ankara and Cemil sell 1 elma to Eray
+Cemil total ?
+who at Ankara ?
+exit

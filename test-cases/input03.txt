@@ -1,0 +1,22 @@
+frodo buy 3 ring
+frodo total rings ?
+ahmet go to rivendell if frodo has 3 ring
+ali buy 2 bread if ahmet at rivendell
+ali total ?
+ahmet where ?
+who at rivendell ?
+who at shire ?
+ayse go to rivendell
+who at rivendell ?
+sam go to shire
+ayse and sam go to mordor
+who at rivendell ?
+who at shire ?
+who at mordor ?
+umit buy 3 bread and umit sell 3 bread
+umit total ?
+isil total pencil ?
+gandalf and sauron buy 3 pencil from gandalf
+gandalf total pencil ?
+sauron total pencil ?
+exit

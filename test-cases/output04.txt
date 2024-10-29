@@ -1,0 +1,21 @@
+OK
+2 bread
+OK
+0
+0
+2 bread
+OK
+NOTHING
+OK
+OK
+3
+3
+3
+3
+2 bread and 3 apple and 4 ring and 86 nanya
+OK
+0
+0
+0
+0
+2 bread and 3 apple and 4 ring and 86 nanya

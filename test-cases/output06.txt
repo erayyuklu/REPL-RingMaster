@@ -1,0 +1,17 @@
+OK
+NOBODY
+Rivendell
+OK
+OK
+OK
+NOWHERE
+3 bread and 1 ring
+INVALID
+0
+0
+OK
+Frodo
+OK
+0
+OK
+0

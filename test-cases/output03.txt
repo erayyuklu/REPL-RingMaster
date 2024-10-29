@@ -1,0 +1,21 @@
+OK
+0
+OK
+OK
+2 bread
+rivendell
+ahmet
+NOBODY
+OK
+ahmet and ayse
+OK
+OK
+ahmet
+NOBODY
+ayse and sam
+OK
+NOTHING
+0
+INVALID
+0
+0

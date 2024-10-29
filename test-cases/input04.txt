@@ -1,0 +1,22 @@
+ayse buy 4 bread and ayse sell 2 bread
+ayse total ? 
+ayse sell 2 ring if ayse has 2 bread
+ayse total ring ?
+ayse total apple ?
+ayse total ?
+ayse sell 2 bread to atakan
+ayse total ?
+ayse buy 2 bread and 3 apple and 4 ring and 0 coffee and 98 nanya
+frodo and sam and merry and atakan buy 3 nanya from ayse
+frodo total nanya ?
+sam total nanya ?
+merry total nanya ?
+atakan total nanya ?
+ayse total ?
+frodo and sam and merry and atakan buy 1 apple from ayse
+frodo total apple ?
+sam total apple ?
+merry total apple ?
+atakan total apple ?
+ayse total ?
+exit

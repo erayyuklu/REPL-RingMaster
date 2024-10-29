@@ -1,0 +1,36 @@
+ali and ali buy 2 bread
+ahmet buy 2 bread and 3 bread
+  ahmet   go   to     rivendell    
+ahmet go shire
+isilsu123 buy 4 apple
+atakan BUy 2 apple
+ali total ?
+ahmet total ?
+ahmet where ?
+isilsu123 total apple ?
+atakan total ?
+atakantotalapple?
+isilsu
+frodo go to shire and mordor
+frodo where ?
+frodo buy 2 3 map
+frodo total map ?
+exit4
+ali and veli sell 1 item to ali
+ali and veli total item ?
+ali total ?
+veli total ?
+ali where ?
+who at NOWHERE ?
+who at nowhere ?
+if Eray has less than 3 elma
+if Eray has less than 3 elma and 3 elma
+if Eray has less than 3 elma and Eray buy 1 elma
+eray total ?
+umit go to mercedes if Eray has less than 3 elma and 3 elma
+umit where ?
+umit buy 12345 a8l
+umit total a8l ?
+umit buy 12345 asekizle
+umit total asekizle ?
+exit

@@ -1,0 +1,8 @@
+ali buy 3 bread
+ali where ?
+ali total bread ?
+ali and ayse go to rivendell
+ahmet where ?
+ahmet buy 2 bread
+ali and ahmet total bread ?
+exit

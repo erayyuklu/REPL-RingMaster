@@ -1,0 +1,10 @@
+Galadriel and Elrond and Cirdan buy 100 Nenya and 100 Narya and 100 Vilya
+Balrog and Saruman buy 10 Vilya and 10 Narya from Cirdan
+Cirdan total ?
+Balrog total ?
+Balrog and Cirdan sell 10 Nenya to Legolas
+Legolas total Nenya ?
+Balrog and Cirdan sell 10 Vilya to Legolas
+Legolas total Vilya ?
+Balrog and Cirdan total Narya ?
+exit

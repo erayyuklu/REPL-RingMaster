@@ -1,0 +1,17 @@
+Frodo buy 5 ring and Legolas and Gimli go to Bree and Samm buy 3 dagger and Samm sell 3 dagger to Sam if Gandalf has less than 4 map and atakan has 0 ipad and Frodo and Sam and Legolas go to Bree and Frodo buy 3 map from Aragorn and Sam sell 2 dagger to Legolas if Frodo has more than 2 ring and Legolas and Gimli at Bree and Frodo and Sam go to Rivendell if Aragorn has 5 map and Frodo has less than 5 potion and Sam has 3 dagger and Frodo and Arwen buy 1 potion and Frodo sell 1 potion to Arwen and Legolas and Gimli go to Rivendell
+Frodo total ring ?
+Frodo total ?
+Samm total ?
+Samm total ring ?
+who at bree ?
+who at Bree ?
+Gandalf total map ?
+atakan total ?
+atakan total ipad ?
+Legolas total ?
+Aragorn total map ?
+who at Rivendell ?
+Frodo total potion ?
+Arwen total potion ?
+Frodo and Arwen total potion ?
+exit
